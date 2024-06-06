@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hey! Nice to see you 🤓.
+
+- 💬 Ask me about **DevOps, PHP, Laravel, Django, Backend-Development, and Web/App Development**
+
+- 📫 How to reach me via E-mail **andre.camargo@msn.com**
+
+- ⚡ Curiosity **I don't know everything, but I can learn.**
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=AndreCamargoo)
 
 <!--
 **AndreCamargoo/AndreCamargoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
